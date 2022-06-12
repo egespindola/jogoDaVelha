@@ -1,0 +1,35 @@
+
+/************* TAGS ************/
+body {
+    text-align: center;
+}
+
+button {
+    margin-top: 10px;
+    width: 100px;
+    height: 30px;
+    background: #eee;
+    cursor: pointer;
+}
+
+
+/************* CLASSES ************/
+.quadrado {
+    text-align: center;
+    width: 90px;
+    height: 90px;
+    background: #eee;
+    display: inline-block;
+    padding: 48px;
+    font-size: 60px;
+    margin: 5px;
+    cursor: pointer;
+    color: #eee;
+}
+
+.jogador, .vencedor {
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+/************* IDs ************/
